@@ -1,5 +1,5 @@
 # Swagger-Doc-Exportor
-swagger静态文件导出工具
+swagger静态接口文档导出工具
 
 导入Swagger静态API文档步骤
 
